@@ -22,7 +22,7 @@ Clone the project
 Navigate to the project directory:
 
 ```bash
-  cd TweetApp
+  cd tweetapp
 ```
 
 Install the required dependencies:
